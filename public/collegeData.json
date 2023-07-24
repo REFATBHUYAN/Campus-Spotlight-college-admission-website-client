@@ -1,0 +1,112 @@
+[
+    {
+        "id":1,
+        "college_name": "University of ABC",
+        "admission_dates": {
+            "fall": "September 1, 2023",
+            "spring": "January 15, 2024"
+        },
+        "events": [
+            "Orientation Day",
+            "Career Fair",
+            "Homecoming",
+            "Science Symposium"
+        ],
+        "research_history": "Founded in 1978, renowned for cutting-edge research in various fields.",
+        "sports": [
+            "Basketball",
+            "Soccer",
+            "Swimming",
+            "Tennis"
+        ],
+        "college_image": "https://media.istockphoto.com/id/173598452/photo/university-in-autumn.jpg?s=612x612&w=0&k=20&c=jQqpZuTZ6qXIfWqnCW5nqlExJZO0PO47L-ZiaE8jIk0="
+    },
+    {
+        "id":2,
+        "college_name": "XYZ College",
+        "admission_dates": {
+            "fall": "August 25, 2023",
+            "spring": "January 10, 2024"
+        },
+        "events": [
+            "Welcome Week",
+            "Art Exhibition",
+            "Tech Summit",
+            "Literary Festival"
+        ],
+        "research_history": "Pioneering advancements in environmental studies since 1992.",
+        "sports": [
+            "Baseball",
+            "Volleyball",
+            "Gymnastics",
+            "Track and Field"
+        ],
+        "college_image": "https://media.istockphoto.com/id/1323420737/photo/aerial-over-north-carolina-central-university-in-the-spring.jpg?s=612x612&w=0&k=20&c=KgNudHx1-Dnf7PaZprc6LgevoyjCUt2LV-ca2KkDcH0="
+    },
+    {
+        "id":3,
+        "college_name": "ABC Institute of Technology",
+        "admission_dates": {
+            "fall": "September 5, 2023",
+            "spring": "January 20, 2024"
+        },
+        "events": [
+            "Hackathon",
+            "Innovation Summit",
+            "Job Fair",
+            "Robotics Expo"
+        ],
+        "research_history": "Leading research hub in computer science and AI research.",
+        "sports": [
+            "Esports",
+            "Badminton",
+            "Table Tennis",
+            "Chess"
+        ],
+        "college_image": "https://media.istockphoto.com/id/157505397/photo/quandrangle-lawn-at-the-university-of-washington.jpg?s=612x612&w=0&k=20&c=y1TIffgQaLN8AoxZCExNxl_wKoeMq9xIy3_kb8XY2Yg="
+    },
+    {
+        "id":4,
+        "college_name": "School of Arts & Design",
+        "admission_dates": {
+            "fall": "August 28, 2023",
+            "spring": "January 12, 2024"
+        },
+        "events": [
+            "Art Showcase",
+            "Fashion Week",
+            "Film Festival",
+            "Design Symposium"
+        ],
+        "research_history": "Celebrated for fostering creativity and artistic expression since 1985.",
+        "sports": [
+            "Paintball",
+            "Yoga",
+            "Dance",
+            "Ultimate Frisbee"
+        ],
+        "college_image": "https://media.istockphoto.com/id/1307457391/photo/happy-black-student-raising-arm-to-answer-question-while-attending-class-with-her-university.jpg?s=612x612&w=0&k=20&c=iZaZFyC-WqlqSQc4elqUNPTxLvWPe8P5Tb_YdZnrI9Q="
+    },
+    {
+        "id":5,
+        "college_name": "Sports Academy University",
+        "admission_dates": {
+            "fall": "September 10, 2023",
+            "spring": "January 25, 2024"
+        },
+        "events": [
+            "Athletics Championship",
+            "Sports Fair",
+            "Fitness Expo",
+            "Coaches Conference"
+        ],
+        "research_history": "A center of excellence in sports training and research.",
+        "sports": [
+            "Football",
+            "Basketball",
+            "Swimming",
+            "Track and Field"
+        ],
+        "college_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSALtv0LIn0n4k4rbITuM1VFNAPpVV_x4xw0Q&usqp=CAU"
+    }
+]

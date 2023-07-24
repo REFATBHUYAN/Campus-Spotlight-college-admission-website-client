@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "The Impact of Social Media on College Students' Mental Health",
+        "date": "2022-03-15",
+        "description": "This research paper explores the relationship between social media usage and mental health among college students. It analyzes survey data from 500 students and finds a significant correlation between excessive social media use and increased stress levels. The study suggests implementing awareness programs to promote healthy online habits."
+    },
+    {
+        "id": 2,
+        "title": "The Role of Exercise in Enhancing Cognitive Function in College Students",
+        "date": "2021-11-02",
+        "description": "Investigating the effects of regular exercise on cognitive function, this study involved 100 college students over a semester. Results showed that participants engaged in physical activities displayed improved memory, attention, and overall cognitive performance compared to sedentary peers. The paper advocates incorporating exercise into educational settings for better academic outcomes."
+    },
+    {
+        "id": 3,
+        "title": "An Analysis of Renewable Energy Adoption in College Campuses",
+        "date": "2023-05-20",
+        "description": "This research assesses the adoption of renewable energy sources in various college campuses across the country. Through interviews and data analysis, the paper identifies barriers and drivers for renewable energy implementation. Findings highlight the importance of institutional support and financial incentives in promoting sustainable energy practices."
+    },
+    {
+        "id": 4,
+        "title": "The Effects of Sleep Quality on Academic Performance Among College Students",
+        "date": "2022-09-08",
+        "description": "Examining the association between sleep quality and academic achievements, this study surveyed 800 college students. The research reveals a strong link between poor sleep patterns and lower grades. It emphasizes the significance of sleep education and establishing healthy sleep habits for academic success."
+    },
+    {
+        "id": 5,
+        "title": "Gender Representation in Computer Science Programs: A Case Study",
+        "date": "2021-12-30",
+        "description": "Focusing on gender diversity in computer science departments, this case study investigates the enrollment patterns of male and female students in a particular college. The study finds significant gender disparities, with recommendations for implementing targeted recruitment strategies and supportive policies to encourage female participation in tech-related fields."
+    }
+]
